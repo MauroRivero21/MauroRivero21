@@ -1,24 +1,23 @@
-# 💫 About Me:
+# 💫 Acerca de mi:
 
-👩‍💻 **Apasionado por resolver problemas con creatividad**
-🚀 **Siempre buscando nuevos retos que me impulsen a crecer**
-🧠 **Aprendiz constante con una mentalidad de mejora continua**
-🤝 **El trabajo en equipo, la colaboración y la comunicación son mi base**
-🎯 **Orientado a los detalles y enfocado en entregar resultados**
-🌍 **Curioso por el mundo y cómo la tecnología puede transformarlo**
-🔥 **Comprometido a dar lo mejor de mí en cada proyecto**
-🔧 **Creo en construir con propósito y pasión**
-💡 **Las ideas solo importan cuando se transforman en acción**
-📈 **Convertir problemas en oportunidades es lo que hago**
+👩‍💻 **Apasionado por resolver problemas con creatividad**   <br/>
+🚀 **Siempre buscando nuevos retos que me impulsen a crecer**   <br/>
+🧠 **Aprendiz constante con una mentalidad de mejora continua**  <br/>
+🤝 **El trabajo en equipo, la colaboración y la comunicación son mi base**  <br/>
+🎯 **Orientado a los detalles y enfocado en entregar resultados**   <br/>
+🌍 **Curioso por el mundo y cómo la tecnología puede transformarlo**  <br/>
+🔥 **Comprometido a dar lo mejor de mí en cada proyecto**  <br/>
+🔧 **Creo en construir con propósito y pasión**  <br/>
+💡 **Las ideas solo importan cuando se transforman en acción**  <br/>
+📈 **Convertir problemas en oportunidades es lo que hago**  <br/>
 
 ---
 
 ## 🌐 Socials:
 
 <p align="left">
-  <a href="https://linkedin.com/in/tunombredeusuario" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:tucorreo@ejemplo.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://behance.net/tunombredeusuario" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white" alt="behance" /></a>
+  <a href="https://linkedin.com/in/mauroriverocerquera" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="mailto:cerqueramauro@gmail.com.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   </p>
 
 ---
