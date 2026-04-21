@@ -50,6 +50,6 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MauroRivero21&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MauroRivero21&show_icons=true&theme=tokyonight" alt="github stats" />  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroRivero21&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
