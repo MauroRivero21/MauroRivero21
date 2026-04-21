@@ -1,21 +1,56 @@
-# Hi 👋, I'm Mauro Rivero 
-### 👨‍💻 Passionate about solving problems with creativity 🚀 Always seeking new challenges that push me to grow 🧠 Lifelong learner with a mindset of continuous improvement 🤝 Teamwork, collaboration, and communication are my foundation 🎯 Detail-oriented and focused on delivering results 🌍 Curious about the world and how technology can transform it 🔥 Committed to giving my best in every project 🔧 I believe in building with purpose and passion 💡 Ideas only matter when turned into action 📈 Turning problems into opportunities is what I do
+# 💫 About Me:
 
-- 🔭 I’m currently working on 
-- 👯 I’m looking to collaborate on 
-- 🤝 I’m looking for help with 
-- 🌱 I’m currently learning 
-- 💬 Ask me about 
-- 📫 How to reach me 
-- 👨‍💻 All of my projects are available at 
-- 📝 I regularly write articles on 
-- 📄 Know about my experiences 
-- ⚡ Fun fact 
+👩‍💻 **Apasionado por resolver problemas con creatividad**
+🚀 **Siempre buscando nuevos retos que me impulsen a crecer**
+🧠 **Aprendiz constante con una mentalidad de mejora continua**
+🤝 **El trabajo en equipo, la colaboración y la comunicación son mi base**
+🎯 **Orientado a los detalles y enfocado en entregar resultados**
+🌍 **Curioso por el mundo y cómo la tecnología puede transformarlo**
+🔥 **Comprometido a dar lo mejor de mí en cada proyecto**
+🔧 **Creo en construir con propósito y pasión**
+💡 **Las ideas solo importan cuando se transforman en acción**
+📈 **Convertir problemas en oportunidades es lo que hago**
 
-### Connect with me:
+---
+
+## 🌐 Socials:
+
 <p align="left">
-<a href="https://github.com/https://github.com/MauroRivero21" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" height="30" width="40"/></a> <a href="https://dev.to/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" alt="Dev.to" height="30" width="40"/></a> <a href="https://codesandbox.io/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/feather-5/24/codesandbox-512.png" alt="CodeSandbox" height="30" width="40"/></a> <a href="https://in.linkedin.com/https://www.linkedin.com/in/mauroriverocerquera/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40"/></a> <a href="https://www.facebook.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" alt="Facebook" height="30" width="40"/></a> <a href="https://dribbble.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/408/408743.png" alt="Dribbble" height="30" width="40"/></a> <a href="https://hashnode.com/" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/cib-hashnode.png" alt="Hashnode" height="30" width="40"/></a> <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" alt="YouTube" height="30" width="40"/></a> <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-3628233-3031053.png" alt="Hackerrank" height="30" width="40"/></a> <a href="https://leetcode.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/306328/leetcode.svg" alt="Leetcode" height="30" width="40"/></a> <a href="https://www.hackerearth.com/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/hackerearth-icon-444x512-0heomwse.png" alt="HackerEarth" height="30" width="40"/></a> <a href="https://discord.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" height="30" width="40"/></a> <a href="https://twitter.com/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/515/1/png-transparent-twitter-logo-computer-icons-logo-twitter-icon-computer-wallpaper-monochrome-bird-thumbnail.png" alt="Twitter" height="30" width="40"/></a> <a href="https://codepen.io/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1906/PNG/512/iconfinder-codepen-4550862_121336.png" alt="Codepen" height="30" width="40"/></a> <a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111690.png" alt="StackOverflow" height="30" width="40"/></a> <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" alt="Instagram" height="30" width="40"/></a> <a href="https://www.kaggle.com/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3628281-3031974.png" alt="Kaggle" height="30" width="40"/></a> <a href="https://www.behance.net/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733594.png" alt="Behance" height="30" width="40"/></a> <a href="https://medium.com/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="Medium" height="30" width="40"/></a> <a href="https://www.codechef.com/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/codechef-icon-380x512-r1v87w22.png" alt="Codechef" height="30" width="40"/></a> <a href="https://codeforces.com/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codeforces-512.png" alt="Codeforces" height="30" width="40"/></a> <a href="https://www.topcoder.com/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/topcoder-512.png" alt="Topcoder" height="30" width="40"/></a> <a href="https://www.geeksforgeeks.org/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/geeksforgeeks-icon-512x264-y71dixbv.png" alt="GeeksforGeeks" height="30" width="40"/></a> <a href="https://rss.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Reddit" height="30" width="40"/></a> </p>
+  <a href="https://linkedin.com/in/tunombredeusuario" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="mailto:tucorreo@ejemplo.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://behance.net/tunombredeusuario" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white" alt="behance" /></a>
+  </p>
 
-### Languages and Tools:
+---
+
+## 💻 Tech Stack:
+
 <p align="left">
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/TypeScript" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/HTML" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/CSS" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Node.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Spring_Framework" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/GraphQL" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/MySQL" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/PostgreSQL" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/SQLite" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/MongoDB" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Angular_(web_framework)" target="blank"><img align="center" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Postman_(software)" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Figma" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Git" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Chart.js" target="blank"><img align="center" src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="40" width="40"/></a> </p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
+  <br/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="springboot"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
+  <br/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="trello"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MauroRivero21&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroRivero21&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
