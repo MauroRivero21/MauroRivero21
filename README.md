@@ -50,10 +50,10 @@
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=maurorivero21&show_icons=true&theme=radical"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=MauroRivero21&show_icons=true&theme=radical"
   />
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maurorivero21&layout=compact&theme=radical"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MauroRivero21&layout=compact&theme=radical"
   />
 </p>
