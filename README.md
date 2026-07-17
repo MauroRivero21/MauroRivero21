@@ -45,10 +45,15 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MauroRivero21&show_icons=true&theme=tokyonight" alt="github stats" />  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroRivero21&layout=compact&theme=tokyonight" alt="top languages" />
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=maurorivero21&show_icons=true&theme=radical"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maurorivero21&layout=compact&theme=radical"
+  />
 </p>
